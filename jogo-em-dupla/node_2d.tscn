@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-[gd_scene format=3 uid="uid://bn3c1duut8r5b"]
+[gd_scene format=3 uid="uid://2so3pq2fuj0b"]
 
-[node name="Personagem01" type="Node2D" unique_id=961552647]
-
-[node name="StaticBody2D" type="StaticBody2D" parent="." unique_id=1511799913]
-
-[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=712702097]
-=======
-[gd_scene format=3 uid="uid://db0jk6guqxt05"]
-
-[node name="Node2D" type="Node2D" unique_id=961552647]
->>>>>>> 5f24c4bcc6cc94f33e5ab1aa0808d800abd538bf
+[node name="Node2D" type="Node2D" unique_id=337264426]
