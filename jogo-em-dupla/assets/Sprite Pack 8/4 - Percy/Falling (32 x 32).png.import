@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dvwf66i2oetcv"
-path="res://.godot/imported/Falling (32 x 32).png-90a0d26ca7483da95f8ceee17fe39b84.ctex"
+path="res://.godot/imported/Falling (32 x 32).png-3c49ffbb0ac692973e40a64ca30cf8eb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sprite Pack 8/4 - Percy/Falling (32 x 32).png"
-dest_files=["res://.godot/imported/Falling (32 x 32).png-90a0d26ca7483da95f8ceee17fe39b84.ctex"]
+source_file="res://jogo-em-dupla/assets/Sprite Pack 8/4 - Percy/Falling (32 x 32).png"
+dest_files=["res://.godot/imported/Falling (32 x 32).png-3c49ffbb0ac692973e40a64ca30cf8eb.ctex"]
 
 [params]
 

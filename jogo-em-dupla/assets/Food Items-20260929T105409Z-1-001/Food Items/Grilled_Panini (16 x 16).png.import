@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b2x1wu4jv7efr"
-path="res://.godot/imported/Grilled_Panini (16 x 16).png-77a89c50d3ae5e4297d75d77893ae36c.ctex"
+path="res://.godot/imported/Grilled_Panini (16 x 16).png-d61b673c5075720fc51f5fdbe660b64a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Food Items-20260929T105409Z-1-001/Food Items/Grilled_Panini (16 x 16).png"
-dest_files=["res://.godot/imported/Grilled_Panini (16 x 16).png-77a89c50d3ae5e4297d75d77893ae36c.ctex"]
+source_file="res://jogo-em-dupla/assets/Food Items-20260929T105409Z-1-001/Food Items/Grilled_Panini (16 x 16).png"
+dest_files=["res://.godot/imported/Grilled_Panini (16 x 16).png-d61b673c5075720fc51f5fdbe660b64a.ctex"]
 
 [params]
 

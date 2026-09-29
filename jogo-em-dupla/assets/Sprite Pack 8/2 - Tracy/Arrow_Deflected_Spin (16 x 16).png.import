@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bltctc8f5qxem"
-path="res://.godot/imported/Arrow_Deflected_Spin (16 x 16).png-fb932d85217b3388fb47b5ed17ebb30f.ctex"
+path="res://.godot/imported/Arrow_Deflected_Spin (16 x 16).png-8a4994a592a6372e3761a91d25f6a8a1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sprite Pack 8/2 - Tracy/Arrow_Deflected_Spin (16 x 16).png"
-dest_files=["res://.godot/imported/Arrow_Deflected_Spin (16 x 16).png-fb932d85217b3388fb47b5ed17ebb30f.ctex"]
+source_file="res://jogo-em-dupla/assets/Sprite Pack 8/2 - Tracy/Arrow_Deflected_Spin (16 x 16).png"
+dest_files=["res://.godot/imported/Arrow_Deflected_Spin (16 x 16).png-8a4994a592a6372e3761a91d25f6a8a1.ctex"]
 
 [params]
 

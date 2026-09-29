@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cs8crj3hdws2d"
-path="res://.godot/imported/Shooting_Fireball (32 x 32).png-d7fa7edd1b4e07fc24effeead55a34f2.ctex"
+path="res://.godot/imported/Shooting_Fireball (32 x 32).png-a36cf00e93447872ec4fd420e9e0a177.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sprite Pack 8/4 - Percy/Shooting_Fireball (32 x 32).png"
-dest_files=["res://.godot/imported/Shooting_Fireball (32 x 32).png-d7fa7edd1b4e07fc24effeead55a34f2.ctex"]
+source_file="res://jogo-em-dupla/assets/Sprite Pack 8/4 - Percy/Shooting_Fireball (32 x 32).png"
+dest_files=["res://.godot/imported/Shooting_Fireball (32 x 32).png-a36cf00e93447872ec4fd420e9e0a177.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bgaaqkqquqin7"
-path="res://.godot/imported/Bottled_Drinks (16 x 16).png-e40efb418f01a30ce060556f9ac9daa0.ctex"
+path="res://.godot/imported/Bottled_Drinks (16 x 16).png-81624f639faaba0cb27737220ecfac05.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Food Items-20260929T105409Z-1-001/Food Items/Bottled_Drinks (16 x 16).png"
-dest_files=["res://.godot/imported/Bottled_Drinks (16 x 16).png-e40efb418f01a30ce060556f9ac9daa0.ctex"]
+source_file="res://jogo-em-dupla/assets/Food Items-20260929T105409Z-1-001/Food Items/Bottled_Drinks (16 x 16).png"
+dest_files=["res://.godot/imported/Bottled_Drinks (16 x 16).png-81624f639faaba0cb27737220ecfac05.ctex"]
 
 [params]
 

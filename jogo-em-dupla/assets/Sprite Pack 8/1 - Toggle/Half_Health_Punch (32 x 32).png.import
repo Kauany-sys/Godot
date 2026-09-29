@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ctguoftk0j6nw"
-path="res://.godot/imported/Half_Health_Punch (32 x 32).png-eb5ac3a6a584609dd33115ba04d9c481.ctex"
+path="res://.godot/imported/Half_Health_Punch (32 x 32).png-f814e116d3eebe9002945d580e7e1bca.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sprite Pack 8/1 - Toggle/Half_Health_Punch (32 x 32).png"
-dest_files=["res://.godot/imported/Half_Health_Punch (32 x 32).png-eb5ac3a6a584609dd33115ba04d9c481.ctex"]
+source_file="res://jogo-em-dupla/assets/Sprite Pack 8/1 - Toggle/Half_Health_Punch (32 x 32).png"
+dest_files=["res://.godot/imported/Half_Health_Punch (32 x 32).png-f814e116d3eebe9002945d580e7e1bca.ctex"]
 
 [params]
 

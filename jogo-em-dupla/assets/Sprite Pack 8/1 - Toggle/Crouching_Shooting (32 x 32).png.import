@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bmewpo8gsdvpa"
-path="res://.godot/imported/Crouching_Shooting (32 x 32).png-465947af674ff50755bfd2b8411eb0c4.ctex"
+path="res://.godot/imported/Crouching_Shooting (32 x 32).png-a133808d6e0275dcf0daab92e8cfe7e6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sprite Pack 8/1 - Toggle/Crouching_Shooting (32 x 32).png"
-dest_files=["res://.godot/imported/Crouching_Shooting (32 x 32).png-465947af674ff50755bfd2b8411eb0c4.ctex"]
+source_file="res://jogo-em-dupla/assets/Sprite Pack 8/1 - Toggle/Crouching_Shooting (32 x 32).png"
+dest_files=["res://.godot/imported/Crouching_Shooting (32 x 32).png-a133808d6e0275dcf0daab92e8cfe7e6.ctex"]
 
 [params]
 

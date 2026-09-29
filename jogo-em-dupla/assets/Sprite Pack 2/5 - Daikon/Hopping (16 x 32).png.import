@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bgmcndwyfq87j"
-path="res://.godot/imported/Hopping (16 x 32).png-28b6b28bc5dd1aa57b841bd14fb365de.ctex"
+path="res://.godot/imported/Hopping (16 x 32).png-c4e670ab14fb4dff9bf3f63163f15322.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sprite Pack 2/5 - Daikon/Hopping (16 x 32).png"
-dest_files=["res://.godot/imported/Hopping (16 x 32).png-28b6b28bc5dd1aa57b841bd14fb365de.ctex"]
+source_file="res://jogo-em-dupla/assets/Sprite Pack 2/5 - Daikon/Hopping (16 x 32).png"
+dest_files=["res://.godot/imported/Hopping (16 x 32).png-c4e670ab14fb4dff9bf3f63163f15322.ctex"]
 
 [params]
 

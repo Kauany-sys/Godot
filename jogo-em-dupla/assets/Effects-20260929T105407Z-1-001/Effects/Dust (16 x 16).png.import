@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://lbve1jvdqjch"
-path="res://.godot/imported/Dust (16 x 16).png-69a498d294bcb32cffa6bacf47d00b6b.ctex"
+path="res://.godot/imported/Dust (16 x 16).png-064c32a76ab650587df8940da2900742.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Effects-20260929T105407Z-1-001/Effects/Dust (16 x 16).png"
-dest_files=["res://.godot/imported/Dust (16 x 16).png-69a498d294bcb32cffa6bacf47d00b6b.ctex"]
+source_file="res://jogo-em-dupla/assets/Effects-20260929T105407Z-1-001/Effects/Dust (16 x 16).png"
+dest_files=["res://.godot/imported/Dust (16 x 16).png-064c32a76ab650587df8940da2900742.ctex"]
 
 [params]
 

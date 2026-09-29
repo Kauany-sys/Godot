@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://djp3atx4e2px5"
-path="res://.godot/imported/Cartwheeling_Movement (32 x 32).png-0cdb1be4f7c8b289ae9ea32efe784937.ctex"
+path="res://.godot/imported/Cartwheeling_Movement (32 x 32).png-54a610daae5426e769385affeafcaf2a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sprite Pack 8/5 - Vessa/Cartwheeling_Movement (32 x 32).png"
-dest_files=["res://.godot/imported/Cartwheeling_Movement (32 x 32).png-0cdb1be4f7c8b289ae9ea32efe784937.ctex"]
+source_file="res://jogo-em-dupla/assets/Sprite Pack 8/5 - Vessa/Cartwheeling_Movement (32 x 32).png"
+dest_files=["res://.godot/imported/Cartwheeling_Movement (32 x 32).png-54a610daae5426e769385affeafcaf2a.ctex"]
 
 [params]
 

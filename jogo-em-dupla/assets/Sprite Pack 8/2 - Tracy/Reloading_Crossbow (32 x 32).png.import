@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ckj4mj7dshlkv"
-path="res://.godot/imported/Reloading_Crossbow (32 x 32).png-89604da61a422e09c4cbec1d505bf47a.ctex"
+path="res://.godot/imported/Reloading_Crossbow (32 x 32).png-23b6bf35c160d3e233fd5823000ca76f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sprite Pack 8/2 - Tracy/Reloading_Crossbow (32 x 32).png"
-dest_files=["res://.godot/imported/Reloading_Crossbow (32 x 32).png-89604da61a422e09c4cbec1d505bf47a.ctex"]
+source_file="res://jogo-em-dupla/assets/Sprite Pack 8/2 - Tracy/Reloading_Crossbow (32 x 32).png"
+dest_files=["res://.godot/imported/Reloading_Crossbow (32 x 32).png-23b6bf35c160d3e233fd5823000ca76f.ctex"]
 
 [params]
 

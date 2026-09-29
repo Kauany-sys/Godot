@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d1bhxv3rth02o"
-path="res://.godot/imported/Crouch (32 x 32).png-b5f3cd67c06ab930f871a5ab7f173624.ctex"
+path="res://.godot/imported/Crouch (32 x 32).png-10cd7baaeb2f733dd8b9a151a38c2cbe.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sprite Pack 8/2 - Tracy/Crouch (32 x 32).png"
-dest_files=["res://.godot/imported/Crouch (32 x 32).png-b5f3cd67c06ab930f871a5ab7f173624.ctex"]
+source_file="res://jogo-em-dupla/assets/Sprite Pack 8/2 - Tracy/Crouch (32 x 32).png"
+dest_files=["res://.godot/imported/Crouch (32 x 32).png-10cd7baaeb2f733dd8b9a151a38c2cbe.ctex"]
 
 [params]
 

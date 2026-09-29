@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bjmyey5ccnyxn"
-path="res://.godot/imported/Idle_2 (32 x 32).png-5a4238b0e5d78ccadf96517e62212296.ctex"
+path="res://.godot/imported/Idle_2 (32 x 32).png-f754aba276834222856f6a49005c5a68.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sprite Pack 8/6 - Angie/Idle_2 (32 x 32).png"
-dest_files=["res://.godot/imported/Idle_2 (32 x 32).png-5a4238b0e5d78ccadf96517e62212296.ctex"]
+source_file="res://jogo-em-dupla/assets/Sprite Pack 8/6 - Angie/Idle_2 (32 x 32).png"
+dest_files=["res://.godot/imported/Idle_2 (32 x 32).png-f754aba276834222856f6a49005c5a68.ctex"]
 
 [params]
 

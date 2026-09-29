@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cemq53ryskek"
-path="res://.godot/imported/frame-6.png-ab0be276e22e2d8fa9f35318d8e28487.ctex"
+path="res://.godot/imported/frame-6.png-5531c5dc328ec40d209cd1e3f2bee54d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/portal (Unzipped Files)-20260929T105252Z-1-001/portal (Unzipped Files)/frame-6.png"
-dest_files=["res://.godot/imported/frame-6.png-ab0be276e22e2d8fa9f35318d8e28487.ctex"]
+source_file="res://jogo-em-dupla/assets/portal (Unzipped Files)-20260929T105252Z-1-001/portal (Unzipped Files)/frame-6.png"
+dest_files=["res://.godot/imported/frame-6.png-5531c5dc328ec40d209cd1e3f2bee54d.ctex"]
 
 [params]
 

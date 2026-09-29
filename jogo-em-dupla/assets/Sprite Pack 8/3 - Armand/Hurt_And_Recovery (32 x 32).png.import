@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dc6c47flc5ryv"
-path="res://.godot/imported/Hurt_And_Recovery (32 x 32).png-9c2b9c4ab0ec48d2a210ee8fb50b46b8.ctex"
+path="res://.godot/imported/Hurt_And_Recovery (32 x 32).png-0e6bea0dc8c47e99bb54b1bc0b429859.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sprite Pack 8/3 - Armand/Hurt_And_Recovery (32 x 32).png"
-dest_files=["res://.godot/imported/Hurt_And_Recovery (32 x 32).png-9c2b9c4ab0ec48d2a210ee8fb50b46b8.ctex"]
+source_file="res://jogo-em-dupla/assets/Sprite Pack 8/3 - Armand/Hurt_And_Recovery (32 x 32).png"
+dest_files=["res://.godot/imported/Hurt_And_Recovery (32 x 32).png-0e6bea0dc8c47e99bb54b1bc0b429859.ctex"]
 
 [params]
 

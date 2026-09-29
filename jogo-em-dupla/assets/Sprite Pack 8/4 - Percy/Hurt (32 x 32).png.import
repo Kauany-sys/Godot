@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d1h6g1t8kc0kn"
-path="res://.godot/imported/Hurt (32 x 32).png-55407fe2d5eceb29970446258f7a729d.ctex"
+path="res://.godot/imported/Hurt (32 x 32).png-c2fa376e0319e81d712db6ba959c6184.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sprite Pack 8/4 - Percy/Hurt (32 x 32).png"
-dest_files=["res://.godot/imported/Hurt (32 x 32).png-55407fe2d5eceb29970446258f7a729d.ctex"]
+source_file="res://jogo-em-dupla/assets/Sprite Pack 8/4 - Percy/Hurt (32 x 32).png"
+dest_files=["res://.godot/imported/Hurt (32 x 32).png-c2fa376e0319e81d712db6ba959c6184.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://clovefqbbtw0l"
-path="res://.godot/imported/Arrow_Impact (16 x 16).png-0c11e59d687dc87f95ddddd171c2880f.ctex"
+path="res://.godot/imported/Arrow_Impact (16 x 16).png-e3b1e349b7000c733f0b1ada34820205.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sprite Pack 8/2 - Tracy/Arrow_Impact (16 x 16).png"
-dest_files=["res://.godot/imported/Arrow_Impact (16 x 16).png-0c11e59d687dc87f95ddddd171c2880f.ctex"]
+source_file="res://jogo-em-dupla/assets/Sprite Pack 8/2 - Tracy/Arrow_Impact (16 x 16).png"
+dest_files=["res://.godot/imported/Arrow_Impact (16 x 16).png-e3b1e349b7000c733f0b1ada34820205.ctex"]
 
 [params]
 

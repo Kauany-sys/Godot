@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://db3j8br5nbvbv"
-path="res://.godot/imported/Bright_Sparkle (16 x 16).png-caa944568d968549b505b88d5dad3eef.ctex"
+path="res://.godot/imported/Bright_Sparkle (16 x 16).png-35a8fc5044f6a695a3885d901af9e6ad.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Effects-20260929T105407Z-1-001/Effects/Bright_Sparkle (16 x 16).png"
-dest_files=["res://.godot/imported/Bright_Sparkle (16 x 16).png-caa944568d968549b505b88d5dad3eef.ctex"]
+source_file="res://jogo-em-dupla/assets/Effects-20260929T105407Z-1-001/Effects/Bright_Sparkle (16 x 16).png"
+dest_files=["res://.godot/imported/Bright_Sparkle (16 x 16).png-35a8fc5044f6a695a3885d901af9e6ad.ctex"]
 
 [params]
 

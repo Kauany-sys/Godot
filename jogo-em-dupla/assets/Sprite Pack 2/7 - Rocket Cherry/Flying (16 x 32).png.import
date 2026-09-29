@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c11t1t7v16v6s"
-path="res://.godot/imported/Flying (16 x 32).png-4b2bb127d1a13e3d05cff4ff1adfce93.ctex"
+path="res://.godot/imported/Flying (16 x 32).png-26da68aa72271daae18e14dd830f9f78.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sprite Pack 2/7 - Rocket Cherry/Flying (16 x 32).png"
-dest_files=["res://.godot/imported/Flying (16 x 32).png-4b2bb127d1a13e3d05cff4ff1adfce93.ctex"]
+source_file="res://jogo-em-dupla/assets/Sprite Pack 2/7 - Rocket Cherry/Flying (16 x 32).png"
+dest_files=["res://.godot/imported/Flying (16 x 32).png-26da68aa72271daae18e14dd830f9f78.ctex"]
 
 [params]
 

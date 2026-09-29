@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ctswuloeqk0p8"
-path="res://.godot/imported/Jump_Shooting (32 x 32).png-4f44b47cc64b5dd1a261d060887cf150.ctex"
+path="res://.godot/imported/Jump_Shooting (32 x 32).png-ec570bc5a95b76435c2a99cf079ec136.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sprite Pack 8/1 - Toggle/Jump_Shooting (32 x 32).png"
-dest_files=["res://.godot/imported/Jump_Shooting (32 x 32).png-4f44b47cc64b5dd1a261d060887cf150.ctex"]
+source_file="res://jogo-em-dupla/assets/Sprite Pack 8/1 - Toggle/Jump_Shooting (32 x 32).png"
+dest_files=["res://.godot/imported/Jump_Shooting (32 x 32).png-ec570bc5a95b76435c2a99cf079ec136.ctex"]
 
 [params]
 

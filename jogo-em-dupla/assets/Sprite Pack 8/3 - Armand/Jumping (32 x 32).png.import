@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://3syhc1x0kywk"
-path="res://.godot/imported/Jumping (32 x 32).png-12ef907b6c56e817974175c27a39d200.ctex"
+path="res://.godot/imported/Jumping (32 x 32).png-c132e7110d1ac4139620c4277ca6daba.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sprite Pack 8/3 - Armand/Jumping (32 x 32).png"
-dest_files=["res://.godot/imported/Jumping (32 x 32).png-12ef907b6c56e817974175c27a39d200.ctex"]
+source_file="res://jogo-em-dupla/assets/Sprite Pack 8/3 - Armand/Jumping (32 x 32).png"
+dest_files=["res://.godot/imported/Jumping (32 x 32).png-c132e7110d1ac4139620c4277ca6daba.ctex"]
 
 [params]
 

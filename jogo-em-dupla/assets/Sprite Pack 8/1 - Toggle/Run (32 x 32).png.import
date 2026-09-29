@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://28vlmhjojg7y"
-path="res://.godot/imported/Run (32 x 32).png-c904066c82d694630229a320aa8c3984.ctex"
+path="res://.godot/imported/Run (32 x 32).png-2b4709d57e9df22497ef30d19f3af150.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sprite Pack 8/1 - Toggle/Run (32 x 32).png"
-dest_files=["res://.godot/imported/Run (32 x 32).png-c904066c82d694630229a320aa8c3984.ctex"]
+source_file="res://jogo-em-dupla/assets/Sprite Pack 8/1 - Toggle/Run (32 x 32).png"
+dest_files=["res://.godot/imported/Run (32 x 32).png-2b4709d57e9df22497ef30d19f3af150.ctex"]
 
 [params]
 

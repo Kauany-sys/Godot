@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://deleydrihnnbt"
-path="res://.godot/imported/Armored_Walking (16 x 32).png-72ef0abdbcc9335b6ea1c5bc8fa5c121.ctex"
+path="res://.godot/imported/Armored_Walking (16 x 32).png-817971bd15474b04bb19d11b112fd782.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sprite Pack 2/6 - Robo Totem/Armored_Walking (16 x 32).png"
-dest_files=["res://.godot/imported/Armored_Walking (16 x 32).png-72ef0abdbcc9335b6ea1c5bc8fa5c121.ctex"]
+source_file="res://jogo-em-dupla/assets/Sprite Pack 2/6 - Robo Totem/Armored_Walking (16 x 32).png"
+dest_files=["res://.godot/imported/Armored_Walking (16 x 32).png-817971bd15474b04bb19d11b112fd782.ctex"]
 
 [params]
 

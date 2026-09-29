@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://byo12s0ucdlib"
-path="res://.godot/imported/Half_Health_Idle (32 x 32).png-5a54a58e966af5b954224fe8238bda39.ctex"
+path="res://.godot/imported/Half_Health_Idle (32 x 32).png-180b8bf39464916ad4e9fe9c79638954.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sprite Pack 8/1 - Toggle/Half_Health_Idle (32 x 32).png"
-dest_files=["res://.godot/imported/Half_Health_Idle (32 x 32).png-5a54a58e966af5b954224fe8238bda39.ctex"]
+source_file="res://jogo-em-dupla/assets/Sprite Pack 8/1 - Toggle/Half_Health_Idle (32 x 32).png"
+dest_files=["res://.godot/imported/Half_Health_Idle (32 x 32).png-180b8bf39464916ad4e9fe9c79638954.ctex"]
 
 [params]
 

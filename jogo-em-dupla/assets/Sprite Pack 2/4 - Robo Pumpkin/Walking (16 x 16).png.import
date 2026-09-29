@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://2a2qfew1tstx"
-path="res://.godot/imported/Walking (16 x 16).png-82b115b084eb54e92940e80ca2294cb8.ctex"
+path="res://.godot/imported/Walking (16 x 16).png-2a48a2a7a3e3be6b1168df666ee1895a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sprite Pack 2/4 - Robo Pumpkin/Walking (16 x 16).png"
-dest_files=["res://.godot/imported/Walking (16 x 16).png-82b115b084eb54e92940e80ca2294cb8.ctex"]
+source_file="res://jogo-em-dupla/assets/Sprite Pack 2/4 - Robo Pumpkin/Walking (16 x 16).png"
+dest_files=["res://.godot/imported/Walking (16 x 16).png-2a48a2a7a3e3be6b1168df666ee1895a.ctex"]
 
 [params]
 

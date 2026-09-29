@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b4cgsn5nrxlbf"
-path="res://.godot/imported/Landing (32 x 32).png-b0b40190f98f4d371a1033de622a510d.ctex"
+path="res://.godot/imported/Landing (32 x 32).png-6be0c61646924d6834c398186bdbe77f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sprite Pack 8/4 - Percy/Landing (32 x 32).png"
-dest_files=["res://.godot/imported/Landing (32 x 32).png-b0b40190f98f4d371a1033de622a510d.ctex"]
+source_file="res://jogo-em-dupla/assets/Sprite Pack 8/4 - Percy/Landing (32 x 32).png"
+dest_files=["res://.godot/imported/Landing (32 x 32).png-6be0c61646924d6834c398186bdbe77f.ctex"]
 
 [params]
 

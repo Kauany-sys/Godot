@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://hwd2w3eff4pb"
-path="res://.godot/imported/Outer_Fists (16 x 16).png-50093cef05de2820ddd0c25872fab8bd.ctex"
+path="res://.godot/imported/Outer_Fists (16 x 16).png-97a2a1621144d3341ff3144982f1ad0e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sprite Pack 2/1 - Onion Lad/Outer_Fists (16 x 16).png"
-dest_files=["res://.godot/imported/Outer_Fists (16 x 16).png-50093cef05de2820ddd0c25872fab8bd.ctex"]
+source_file="res://jogo-em-dupla/assets/Sprite Pack 2/1 - Onion Lad/Outer_Fists (16 x 16).png"
+dest_files=["res://.godot/imported/Outer_Fists (16 x 16).png-97a2a1621144d3341ff3144982f1ad0e.ctex"]
 
 [params]
 

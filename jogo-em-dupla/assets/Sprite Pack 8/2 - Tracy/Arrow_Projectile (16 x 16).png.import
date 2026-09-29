@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ctfmlujwwqhnu"
-path="res://.godot/imported/Arrow_Projectile (16 x 16).png-bf4381ed96797447cc6af841f1dd1729.ctex"
+path="res://.godot/imported/Arrow_Projectile (16 x 16).png-184f9e61818b865ab1957660117edec4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sprite Pack 8/2 - Tracy/Arrow_Projectile (16 x 16).png"
-dest_files=["res://.godot/imported/Arrow_Projectile (16 x 16).png-bf4381ed96797447cc6af841f1dd1729.ctex"]
+source_file="res://jogo-em-dupla/assets/Sprite Pack 8/2 - Tracy/Arrow_Projectile (16 x 16).png"
+dest_files=["res://.godot/imported/Arrow_Projectile (16 x 16).png-184f9e61818b865ab1957660117edec4.ctex"]
 
 [params]
 

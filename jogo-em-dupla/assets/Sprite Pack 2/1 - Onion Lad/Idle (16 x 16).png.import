@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cao63gqfnxii8"
-path="res://.godot/imported/Idle (16 x 16).png-3146411e751a2004583889e0d5356196.ctex"
+path="res://.godot/imported/Idle (16 x 16).png-54853a8098769d1f5a00e6334e06571b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sprite Pack 2/1 - Onion Lad/Idle (16 x 16).png"
-dest_files=["res://.godot/imported/Idle (16 x 16).png-3146411e751a2004583889e0d5356196.ctex"]
+source_file="res://jogo-em-dupla/assets/Sprite Pack 2/1 - Onion Lad/Idle (16 x 16).png"
+dest_files=["res://.godot/imported/Idle (16 x 16).png-54853a8098769d1f5a00e6334e06571b.ctex"]
 
 [params]
 

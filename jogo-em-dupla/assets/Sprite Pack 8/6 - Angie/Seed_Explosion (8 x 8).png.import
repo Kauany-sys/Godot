@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://kv3o7fw4g5kc"
-path="res://.godot/imported/Seed_Explosion (8 x 8).png-beccd5d71366bf7825f1166e87a66ef4.ctex"
+path="res://.godot/imported/Seed_Explosion (8 x 8).png-39ae6a2f8125bf06c1e85245b352007a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sprite Pack 8/6 - Angie/Seed_Explosion (8 x 8).png"
-dest_files=["res://.godot/imported/Seed_Explosion (8 x 8).png-beccd5d71366bf7825f1166e87a66ef4.ctex"]
+source_file="res://jogo-em-dupla/assets/Sprite Pack 8/6 - Angie/Seed_Explosion (8 x 8).png"
+dest_files=["res://.godot/imported/Seed_Explosion (8 x 8).png-39ae6a2f8125bf06c1e85245b352007a.ctex"]
 
 [params]
 

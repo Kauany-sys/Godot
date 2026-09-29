@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bnmdtto6dhd8b"
-path="res://.godot/imported/Hurt (32 x 32).png-6d3e595924465c4cbb0079eda2983129.ctex"
+path="res://.godot/imported/Hurt (32 x 32).png-0d9f0bbb9d3ca6cf6d45a1e1ff08bc77.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sprite Pack 8/2 - Tracy/Hurt (32 x 32).png"
-dest_files=["res://.godot/imported/Hurt (32 x 32).png-6d3e595924465c4cbb0079eda2983129.ctex"]
+source_file="res://jogo-em-dupla/assets/Sprite Pack 8/2 - Tracy/Hurt (32 x 32).png"
+dest_files=["res://.godot/imported/Hurt (32 x 32).png-0d9f0bbb9d3ca6cf6d45a1e1ff08bc77.ctex"]
 
 [params]
 

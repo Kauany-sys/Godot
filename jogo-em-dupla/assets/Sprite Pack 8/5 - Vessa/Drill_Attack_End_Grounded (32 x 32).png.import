@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cviypjd11x3xi"
-path="res://.godot/imported/Drill_Attack_End_Grounded (32 x 32).png-ee1bebd51f7d29d5c2bc997b668ec898.ctex"
+path="res://.godot/imported/Drill_Attack_End_Grounded (32 x 32).png-ed381243d1fd4bf7a47f14a9127b22a0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sprite Pack 8/5 - Vessa/Drill_Attack_End_Grounded (32 x 32).png"
-dest_files=["res://.godot/imported/Drill_Attack_End_Grounded (32 x 32).png-ee1bebd51f7d29d5c2bc997b668ec898.ctex"]
+source_file="res://jogo-em-dupla/assets/Sprite Pack 8/5 - Vessa/Drill_Attack_End_Grounded (32 x 32).png"
+dest_files=["res://.godot/imported/Drill_Attack_End_Grounded (32 x 32).png-ed381243d1fd4bf7a47f14a9127b22a0.ctex"]
 
 [params]
 

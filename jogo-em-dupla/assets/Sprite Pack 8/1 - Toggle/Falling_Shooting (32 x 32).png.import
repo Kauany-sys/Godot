@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b1ixaqjxbmll4"
-path="res://.godot/imported/Falling_Shooting (32 x 32).png-cbbe22c71bbf25ea6ed0b5fc9a947378.ctex"
+path="res://.godot/imported/Falling_Shooting (32 x 32).png-f934c27dd4d1b927590df1c19e72fbd5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sprite Pack 8/1 - Toggle/Falling_Shooting (32 x 32).png"
-dest_files=["res://.godot/imported/Falling_Shooting (32 x 32).png-cbbe22c71bbf25ea6ed0b5fc9a947378.ctex"]
+source_file="res://jogo-em-dupla/assets/Sprite Pack 8/1 - Toggle/Falling_Shooting (32 x 32).png"
+dest_files=["res://.godot/imported/Falling_Shooting (32 x 32).png-f934c27dd4d1b927590df1c19e72fbd5.ctex"]
 
 [params]
 

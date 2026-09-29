@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c5figd2632eeb"
-path="res://.godot/imported/Chocolate_Bars (16 x 16).png-f6782af0b5a42abf93d859b8fade9caf.ctex"
+path="res://.godot/imported/Chocolate_Bars (16 x 16).png-7b9d78a3ac745094a03d433217c2bed4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Food Items-20260929T105409Z-1-001/Food Items/Chocolate_Bars (16 x 16).png"
-dest_files=["res://.godot/imported/Chocolate_Bars (16 x 16).png-f6782af0b5a42abf93d859b8fade9caf.ctex"]
+source_file="res://jogo-em-dupla/assets/Food Items-20260929T105409Z-1-001/Food Items/Chocolate_Bars (16 x 16).png"
+dest_files=["res://.godot/imported/Chocolate_Bars (16 x 16).png-7b9d78a3ac745094a03d433217c2bed4.ctex"]
 
 [params]
 

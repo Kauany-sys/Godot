@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cpygwhxgr80ik"
-path="res://.godot/imported/Idle (32 x 32).png-7a50102cbf5f46c5401885dc8d86e288.ctex"
+path="res://.godot/imported/Idle (32 x 32).png-ef0b177f569d34bfd4a91459ce9e5ab9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sprite Pack 8/3 - Armand/Idle (32 x 32).png"
-dest_files=["res://.godot/imported/Idle (32 x 32).png-7a50102cbf5f46c5401885dc8d86e288.ctex"]
+source_file="res://jogo-em-dupla/assets/Sprite Pack 8/3 - Armand/Idle (32 x 32).png"
+dest_files=["res://.godot/imported/Idle (32 x 32).png-ef0b177f569d34bfd4a91459ce9e5ab9.ctex"]
 
 [params]
 

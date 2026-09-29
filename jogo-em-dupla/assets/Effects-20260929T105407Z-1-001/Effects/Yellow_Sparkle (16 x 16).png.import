@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://kx7mf8yxp8g5"
-path="res://.godot/imported/Yellow_Sparkle (16 x 16).png-6942712cd02c476ab5c42e13f08fe457.ctex"
+path="res://.godot/imported/Yellow_Sparkle (16 x 16).png-bc20846379fd85620234a9c129260f63.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Effects-20260929T105407Z-1-001/Effects/Yellow_Sparkle (16 x 16).png"
-dest_files=["res://.godot/imported/Yellow_Sparkle (16 x 16).png-6942712cd02c476ab5c42e13f08fe457.ctex"]
+source_file="res://jogo-em-dupla/assets/Effects-20260929T105407Z-1-001/Effects/Yellow_Sparkle (16 x 16).png"
+dest_files=["res://.godot/imported/Yellow_Sparkle (16 x 16).png-bc20846379fd85620234a9c129260f63.ctex"]
 
 [params]
 

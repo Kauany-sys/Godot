@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ctunp5hl5emda"
-path="res://.godot/imported/Running (32 x 32).png-c000abf77618c9f73464d87a467deb8d.ctex"
+path="res://.godot/imported/Running (32 x 32).png-bfccc7f8ca30e8ff1c0e41f0823858e2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sprite Pack 8/4 - Percy/Running (32 x 32).png"
-dest_files=["res://.godot/imported/Running (32 x 32).png-c000abf77618c9f73464d87a467deb8d.ctex"]
+source_file="res://jogo-em-dupla/assets/Sprite Pack 8/4 - Percy/Running (32 x 32).png"
+dest_files=["res://.godot/imported/Running (32 x 32).png-bfccc7f8ca30e8ff1c0e41f0823858e2.ctex"]
 
 [params]
 

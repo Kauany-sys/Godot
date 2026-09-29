@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bv8f4e2y5dadv"
-path="res://.godot/imported/Spinning_Punch (32 x 32).png-2fb9d58f43b9bdb256f988ca02e6e808.ctex"
+path="res://.godot/imported/Spinning_Punch (32 x 32).png-e413b47f0928a2a8c08edbccfbb84837.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sprite Pack 8/3 - Armand/Spinning_Punch (32 x 32).png"
-dest_files=["res://.godot/imported/Spinning_Punch (32 x 32).png-2fb9d58f43b9bdb256f988ca02e6e808.ctex"]
+source_file="res://jogo-em-dupla/assets/Sprite Pack 8/3 - Armand/Spinning_Punch (32 x 32).png"
+dest_files=["res://.godot/imported/Spinning_Punch (32 x 32).png-e413b47f0928a2a8c08edbccfbb84837.ctex"]
 
 [params]
 

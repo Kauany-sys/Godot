@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://wijstdpl1q8n"
-path="res://.godot/imported/Punch (32 x 32).png-3bd3357a2a9fc16c9c748a5e7dded053.ctex"
+path="res://.godot/imported/Punch (32 x 32).png-83a7c1a3c0a76d9838c147fb3979fbc1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sprite Pack 8/1 - Toggle/Punch (32 x 32).png"
-dest_files=["res://.godot/imported/Punch (32 x 32).png-3bd3357a2a9fc16c9c748a5e7dded053.ctex"]
+source_file="res://jogo-em-dupla/assets/Sprite Pack 8/1 - Toggle/Punch (32 x 32).png"
+dest_files=["res://.godot/imported/Punch (32 x 32).png-83a7c1a3c0a76d9838c147fb3979fbc1.ctex"]
 
 [params]
 

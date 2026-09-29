@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d4l6rqvwtcm71"
-path="res://.godot/imported/Half_Health_Landed (32 x 32).png-5ded9621f31574bf27aef9e4a0d701ae.ctex"
+path="res://.godot/imported/Half_Health_Landed (32 x 32).png-49d90f972d28ccf43c354345b6eb7220.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sprite Pack 8/1 - Toggle/Half_Health_Landed (32 x 32).png"
-dest_files=["res://.godot/imported/Half_Health_Landed (32 x 32).png-5ded9621f31574bf27aef9e4a0d701ae.ctex"]
+source_file="res://jogo-em-dupla/assets/Sprite Pack 8/1 - Toggle/Half_Health_Landed (32 x 32).png"
+dest_files=["res://.godot/imported/Half_Health_Landed (32 x 32).png-49d90f972d28ccf43c354345b6eb7220.ctex"]
 
 [params]
 

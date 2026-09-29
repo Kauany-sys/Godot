@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://sel8p02a4abj"
-path="res://.godot/imported/Half_Health_Run (32 x 32).png-2e5dc2af4718ccdff9bf0531bb5d6f92.ctex"
+path="res://.godot/imported/Half_Health_Run (32 x 32).png-461496e92312d1562b4616d8f9658baa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sprite Pack 8/1 - Toggle/Half_Health_Run (32 x 32).png"
-dest_files=["res://.godot/imported/Half_Health_Run (32 x 32).png-2e5dc2af4718ccdff9bf0531bb5d6f92.ctex"]
+source_file="res://jogo-em-dupla/assets/Sprite Pack 8/1 - Toggle/Half_Health_Run (32 x 32).png"
+dest_files=["res://.godot/imported/Half_Health_Run (32 x 32).png-461496e92312d1562b4616d8f9658baa.ctex"]
 
 [params]
 

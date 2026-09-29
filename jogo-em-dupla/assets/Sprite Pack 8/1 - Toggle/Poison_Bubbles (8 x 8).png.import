@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c8wmr31bba86l"
-path="res://.godot/imported/Poison_Bubbles (8 x 8).png-00634513407d9825d229c2357229ca97.ctex"
+path="res://.godot/imported/Poison_Bubbles (8 x 8).png-b10d6991d80fbd295067fc9a55d32451.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sprite Pack 8/1 - Toggle/Poison_Bubbles (8 x 8).png"
-dest_files=["res://.godot/imported/Poison_Bubbles (8 x 8).png-00634513407d9825d229c2357229ca97.ctex"]
+source_file="res://jogo-em-dupla/assets/Sprite Pack 8/1 - Toggle/Poison_Bubbles (8 x 8).png"
+dest_files=["res://.godot/imported/Poison_Bubbles (8 x 8).png-b10d6991d80fbd295067fc9a55d32451.ctex"]
 
 [params]
 
